@@ -1,0 +1,13 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://coding.dashscope.aliyuncs.com/apps/anthropic",
+    "ANTHROPIC_AUTH_TOKEN": "sk-sp-a85b0c0394d24895b40485054f0ef3b4",
+    "ANTHROPIC_MODEL": "qwen3.6-plus",
+    "ANTHROPIC_REASONING_MODEL": "qwen3.6-plus",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "qwen3.6-plus",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "qwen3.6-plus",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "qwen3.6-plus"
+  },
+  "includeCoAuthoredBy": false,
+  "theme": "dark-daltonized"
+}
